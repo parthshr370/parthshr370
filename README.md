@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Parth Sharma</h1>
 <h3 align="center">Learning Java and Design</h3>
-<img align="right"> alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif 
-">
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthshr370&label=Profile%20views&color=0e75b6&style=flat" alt="parthshr370" /> </p>
