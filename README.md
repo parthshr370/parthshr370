@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthshr370&label=Profile%20views&color=0e75b6&style=flat" alt="parthshr370" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthshr370" alt="parthshr370" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/parthshr370" target="blank"><img src="https://img.shields.io/twitter/follow/parthshr370?logo=twitter&style=for-the-badge" alt="parthshr370" /></a> </p>
 
 - 🌱 I’m currently learning **Python,ML,DSA**
