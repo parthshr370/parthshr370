@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/parthshr370" target="blank"><img src="https://img.shields.io/twitter/follow/parthshr370?logo=twitter&style=for-the-badge" alt="parthshr370" /></a> </p>
 
-- 🌱 I’m currently learning **Java|Linux**
+- 🌱 I’m currently learning **Pyhton|ML**
 
 - ⚡ Fun fact **I am a professional PowerPoint designer**
 
