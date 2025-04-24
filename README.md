@@ -16,17 +16,19 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **advanced EEG Analysis techniques** and **Data Attribution**.
-- 🌱 I’m currently learning more about **Multi Agent Modelling**.
+- 🔭 I’m currently working on **Building MCP Servers and their Networks** and **Multi agent orchestrations**.
+- 🌱 I’m currently learning more about **RL for agents and MCP**.
+- 🐦 You can find me posting about my learnings on my [Twitter/X](x.com/parthshr370)
 - 📝 I regularly write articles on [Medium](https://medium.com/@parthshr370) about my research and findings in machine learning and data science.
-- 💬 Ask me about **ML, Process Mining, Linux**, and **EEG data analysis**.
-- 📄 Know about my experiences as a [Research Intern at IIITA](https://www.linkedin.com/in/parthshr370/).
+- 💬 Ask me about **Agents, ML, Process Mining, Linux**, and **EEG data analysis**.
+- 📄 Know about my experiences at my [LinkedIn](https://www.linkedin.com/in/parthshr370/).
 
 ---
 
 ### 📚 Latest Blog Posts-: [Here](https://medium.com/@parthshr370)
 <!-- BLOG-POST-LIST:START -->
 - "Understanding the Shapley Value in Data Science"
+- "Hetrogeneous Multi agent communication : Making Different Agent Frameworks Collaborate Through MCP"
 - "Implementing a Variational Autoencoder with PyTorch Lightning"
 - "Advancements in EEG Data Processing: A Researcher's Perspective"
 <!-- BLOG-POST-LIST:END -->
