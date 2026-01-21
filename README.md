@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Parth Sharma</h1>
-<h3 align="center">Building Intelligent Agents & MCP Networks</h3>
+<h3 align="center">Building Intelligent Agents & Learning</h3>
 
 <p align="center">
   <a href="https://parthshr370.github.io/" target="_blank"><strong>Website</strong></a> •
