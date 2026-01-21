@@ -75,7 +75,6 @@ I write about my experiments with Agents, Tooling, and System Architecture.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=parthshr370&show_icons=true&locale=en&theme=merko&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthshr370&theme=merko&hide_border=true" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 <p align="left">
